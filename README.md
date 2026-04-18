@@ -29,4 +29,4 @@
   
 </div>
 
-![Snake animation] (https://github.com/Eliane-science)
+![Snake animation](https://github.com/Eliane-science/Eliane-science/blob/output/github-contribution-grid-snake.svg)
