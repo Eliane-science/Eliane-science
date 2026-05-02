@@ -5,18 +5,7 @@
 - 👩🏼 Pronomes: ela/dela
 
 ##
-<div>
-  <a href="https://github.com/Eliane-science" >
-  <img height"180em" src="https://github-readme-stats.vercel.app/api?username=Eliane-science&show_icons=true&theme=react" />
-  <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliane-science&layout=compact&theme=react" />
-</div>
-
-##
-<p align="left">
-  <a href="https://readme-icons.com">
-    <img src="https://readme-icons.com/api/icons?i=html5%2Ccss%2Cpython%2Cjavascript&size=40" alt="Icons" />
-  </a>
-</p>
+[![Icons](https://readme-icons.com/api/icons?i=javascript%2Chtml5%2Ccss%2Cbootstrap%2Cpython&size=40)](https://readme-icons.com)
 
 ##
 
@@ -26,6 +15,3 @@
   <a href="https://www.linkedin.com/in/elisoares-ciencia2427/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<!--
-![Snake animation](https://github.com/Eliane-science/Eliane-science/blob/output/github-contribution-grid-snake.svg)
---!>
