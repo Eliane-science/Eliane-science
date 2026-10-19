@@ -61,7 +61,7 @@ de roupas infantis.
 **Objetivo:** aplicar conhecimentos de desenvolvimento web,
 criando uma interface organizada e responsiva.
 
-🔗 [Vizualizar repositório](https://github.com/seu-usuario/bendita-kids)
+🔗 [Vizualizar repositório](https://github.com/Eliane-science/Loja-Bendita)
 
 ### 🗄️ Estudos em SQL Server
 
@@ -75,7 +75,7 @@ ao aprendizado de bancos de dados relacionais.
 - Tabelas temporárias e subconsultas.
 - Extração e organização de informações.
 
-🔗 [Vizualizar repositório](https://github.com/seu-usuario/bendita-kids)
+🔗 [Vizualizar repositório](https://github.com/Eliane-science/Projeto_SQL)
 
 ## 📚 Atualmente aprendendo
 
